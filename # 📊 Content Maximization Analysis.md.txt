@@ -1,0 +1,41 @@
+# 📊 Content Maximization Analysis
+
+## 📌 Overview
+This project analyzes content performance data to identify trends, user engagement patterns, and strategies to maximize reach and engagement.
+
+## 🎯 Objective
+- Analyze content engagement metrics
+- Identify high-performing content
+- Optimize posting strategies
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, Seaborn)
+- SQL
+- Power BI
+
+## 📂 Dataset
+- Content type
+- Views / Likes / Shares
+- Posting time
+- User engagement metrics
+
+## 🔍 Steps Performed
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Trend Analysis
+4. Visualization
+
+## 📊 Key Insights
+- Certain content types perform better
+- Peak engagement occurs at specific times
+- Engagement varies by category
+
+## 💡 Recommendations
+- Post during peak hours
+- Focus on high-performing content types
+- Improve low-engagement areas
+
+
+## 🚀 Future Improvements
+- Predict engagement using ML
+- Build recommendation system
